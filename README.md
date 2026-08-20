@@ -1,3 +1,4 @@
+<img width="679" height="23" alt="git01" src="https://github.com/user-attachments/assets/e92a3d8a-70b0-4231-af38-b38de992b793" />
 # 共有リポジトリモデル
 ## モデルの概要
 共有リポジトリモデルとはGit及びGithubを用いてチーム開発を行うための手段である。
