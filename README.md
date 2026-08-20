@@ -11,5 +11,11 @@
 ・A(リード役)
 
 ・B(開発者)
+
+* a
+
+** a
+
+* ** a
 ## 参考
 https://docs.github.com/ja/pull-requests/reference/pull-requests
