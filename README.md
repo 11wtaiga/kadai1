@@ -40,7 +40,9 @@ Aから届いた招待で、ポジトリへの招待を「Accept invitation」�
 準備ができたら手順道理に進める。
 
 Aが初期コードをpushする。
-``` git add README.md
 
+```
+git add README.md
+```
 ## 参考
 https://docs.github.com/ja/pull-requests/reference/pull-requests
