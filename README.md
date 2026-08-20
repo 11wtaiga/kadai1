@@ -42,7 +42,7 @@ Aから届いた招待で、ポジトリへの招待を「Accept invitation」�
 #### Aが初期コードをpushする。
 
 ```
-git add README.md
+git add index.html
 git commit -m "first commit"
 git branch main
 git push -u origin main
@@ -52,9 +52,16 @@ git push -u origin main
 ```
 git clone <リポジトリのURL>
 cd <リポジトリ名>
-git branch -c develop
+git branch develop
 git switch develop
-
+vi index.html
+git add index.html
+git commit -m "add index.html"
+git push origin develop
 ```
+
+#### プルリクエストでマージする
+Aは、GitHub上で「Compare & pull request」を押し、追加や修正の内容を確認し、「Merge pull request」を押して、mainに反映させる。
+
 ## 参考
 https://docs.github.com/ja/pull-requests/reference/pull-requests
