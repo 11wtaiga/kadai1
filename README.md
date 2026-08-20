@@ -7,7 +7,9 @@
 
 ## 演習の役割及び手順
 本演習では A: リード役、B: 開発者 の二人で行った。
+
 ・A(リード役)
+
 ・B(開発者)
 ## 参考
 https://docs.github.com/ja/pull-requests/reference/pull-requests
