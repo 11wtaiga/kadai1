@@ -12,13 +12,14 @@
 * **B　(開発者)** 
 
 ### 手順
-1. AがGitHub上にリモートリポジトリを用意し、index.html（"Hello"と記述）をmainブランチにPushする。
+1. [AがGitHub上にリモートリポジトリを用意する](#1-aがgithub上にリモートリポジトリを用意する)
 2. Bがリポジトリをcloneし、作業ブランチを作成。index.htmlを編集してPushし、Aへプルリクエストを出す。
 3. AがBのプルリクエストをレビューし、mainブランチにマージする。
 4. Aがローカルのmainブランチを最新化（pull）し、作業ブランチを作成。index.htmlを編集してPRを作成・マージする。
 5. Bがローカルのmainブランチを最新化（pull）し、作業ブランチを作成。stylesheet.cssを追加してAへプルリクエストを出す。
 6. AがBのプルリクエストをレビューし、mainブランチにマージする。
 
+## 1. AがGitHub上にリモートリポジトリを用意する
 
 ## 参考
 https://docs.github.com/ja/pull-requests/reference/pull-requests
