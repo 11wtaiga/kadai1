@@ -24,7 +24,12 @@
 ### 1: リポジトリの作成と招待
 AがGitHub上にリモートリポジトリを作成する。今回はGitで作成した。
 <img width="679" height="23" alt="git01" src="https://github.com/user-attachments/assets/e92a3d8a-70b0-4231-af38-b38de992b793" />
-リポジトリができたらGitHub上で出来ているかを確認し、そのリポジトリを開く。ページ上部にある「Settings」から、左メニューの「Collaborators」を開く
+
+リポジトリができたらGitHub上で出来ているかを確認し、そのリポジトリを開く。
+
+
+ページ上部にある「Settings」から、左メニューの「Collaborators」を開く。
 <img width="1920" height="1032" alt="スクリーンショット 2026-08-20 164949" src="https://github.com/user-attachments/assets/09bb8830-9367-4db8-8b42-e496449e64b6" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-20 165439" src="https://github.com/user-attachments/assets/9421e8c4-c9d3-46eb-9724-1781ec16a4a6" />
 ## 参考
 https://docs.github.com/ja/pull-requests/reference/pull-requests
