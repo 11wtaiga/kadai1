@@ -62,7 +62,7 @@ git push origin develop
 
 #### プルリクエストでマージする
 Aは、GitHub上で「Compare & pull request」を押し、追加や修正の内容を確認し、「Merge pull request」を押して、mainに反映させる。
-* ※
+## ※
 
 ## 参考
 https://docs.github.com/ja/pull-requests/reference/pull-requests
