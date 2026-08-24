@@ -49,7 +49,7 @@ git commit -m "first commit"
 git branch main
 git push -u origin main
 ```
-#### Bさんがクローンして作業ブランチで開発する
+#### Bがクローンして作業ブランチで開発する
 
 ```
 git clone <リポジトリのURL>
