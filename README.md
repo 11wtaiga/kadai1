@@ -98,5 +98,18 @@ git push origin develop2
 
 プッシュ後に、先ほどと同じ過程を通し、マージを行う。
 
+#### Bがローカルのmainブランチを最新化し、作業ブランチを作成。stylesheet.cssを追加しプルリクエストを出す。
+```
+git pull origin main
+git switch develop
+echo "hello" >> stylesheet.css
+git add stylesheet.css
+git commit -m "add stylesheet.css commit"
+git push -u origin develop
+```
+#### AがBのプルリクエストをレビューし、mainブランチにマージする。
+Bが新しいファイルを作成してもは寧されていることがわかる。
+
 ## 参考
+(2025/11/28)「つくって、壊して、直して学ぶ Git＆GitHub 入門」　高橋あおい　9784798191584
 https://docs.github.com/ja/pull-requests/reference/pull-requests
