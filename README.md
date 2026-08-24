@@ -41,6 +41,9 @@ AがGitHub上にリモートリポジトリを作成する。今回はGitで作�
 
 
 Aから届いた招待で、ポジトリへの招待を「Accept invitation」するとBもリポジトリに対してPushができるようになる。
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 095827" src="https://github.com/user-attachments/assets/b70a6e2b-c08c-45d8-b960-e92b39963f69" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 095653" src="https://github.com/user-attachments/assets/8e103266-8511-4837-9633-ef793f7d1996" />
+
 
 ### 2: 実際の開発の流れ
 準備ができたら手順道理に進める。
