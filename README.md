@@ -23,7 +23,8 @@
 
 ### 1: リポジトリの作成と招待
 AがGitHub上にリモートリポジトリを作成する。今回はGitで作成した。
-<img width="1206" height="241" alt="スクリーンショット 2026-08-20 170136" src="https://github.com/user-attachments/assets/9278e100-904a-4364-b393-865ff2fa2b8f" />
+<img width="987" height="244" alt="スクリーンショット 2026-08-24 095233" src="https://github.com/user-attachments/assets/f483b3fb-6a85-402d-9073-7e64bc94a270" />
+
 
 リポジトリができたらGitHub上で出来ているかを確認し、そのリポジトリを開く。
 
