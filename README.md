@@ -27,6 +27,8 @@ AがGitHub上にリモートリポジトリを作成する。今回はGitで作�
 
 
 リポジトリができたらGitHub上で出来ているかを確認し、そのリポジトリを開く。
+<img width="927" height="101" alt="スクリーンショット 2026-08-24 095310" src="https://github.com/user-attachments/assets/71b8dee9-00c2-4183-ae7f-132d99a85fa1" />
+
 
 
 ページ上部にある「Settings」から、左メニューの「Collaborators」を開く。
@@ -34,6 +36,9 @@ AがGitHub上にリモートリポジトリを作成する。今回はGitで作�
 
 
 パスワードを求められたら入力をし、「Add people」ボタンを押し、B のGitHubのユーザー名またはメールアドレスを入力して招待する。
+<img width="639" height="174" alt="スクリーンショット 2026-08-24 095500" src="https://github.com/user-attachments/assets/d00668aa-f231-4796-9f3c-8393aaa410f5" />
+<img width="630" height="180" alt="スクリーンショット 2026-08-24 095533" src="https://github.com/user-attachments/assets/ec62095b-003e-4277-bca1-05c57d030aef" />
+
 
 Aから届いた招待で、ポジトリへの招待を「Accept invitation」するとBもリポジトリに対してPushができるようになる。
 <img width="284" height="123" alt="スクリーンショット 2026-08-20 170735" src="https://github.com/user-attachments/assets/791c8010-388c-495a-92e4-5b9cd5b0c8b2" />
