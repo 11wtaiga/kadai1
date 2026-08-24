@@ -51,6 +51,7 @@ Aから届いた招待で、ポジトリへの招待を「Accept invitation」�
 #### Aが初期コードをpushする。
 
 ```
+echo "Hello" >> index.html
 git add index.html
 git commit -m "first commit"
 git branch main
