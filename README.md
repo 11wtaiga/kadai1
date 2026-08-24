@@ -111,5 +111,5 @@ git push -u origin develop
 Bが新しいファイルを作成してもは寧されていることがわかる。
 
 ## 参考
-(2025/11/28)「つくって、壊して、直して学ぶ Git＆GitHub 入門」　高橋あおい　9784798191584
-https://docs.github.com/ja/pull-requests/reference/pull-requests
+* (2025/11/28)「つくって、壊して、直して学ぶ Git＆GitHub 入門」　高橋あおい　9784798191584
+* https://docs.github.com/ja/pull-requests/reference/pull-requests
