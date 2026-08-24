@@ -57,6 +57,8 @@ git commit -m "first commit"
 git branch main
 git push -u origin main
 ```
+
+
 #### Bがクローンして作業ブランチで開発する
 
 ```
@@ -69,6 +71,7 @@ git add index.html
 git commit -m "add index.html"
 git push origin develop
 ```
+
 
 #### プルリクエストでマージする
 GitHub上で「Compare & pull request」を押し、追加や修正の内容を確認し、「Create pull request」をしてから、「Merge pull request」を押して、mainブランチに反映させる。
@@ -84,6 +87,7 @@ GitHub上で「Compare & pull request」を押し、追加や修正の内容を�
 
 「Compare changes」の「base」はmainにし、「compare」はpushした際の作業用ブランチ（develop）を選択する。正しく差分が表示されたら「Create pull request」を押すことでマージが完了する。
 
+
 #### Aがローカルのmainブランチを最新化し、作業ブランチを作成。index.htmlを編集・マージする。
 
 ```
@@ -98,6 +102,7 @@ git push origin develop2
 
 プッシュ後に、先ほどと同じ過程を通し、マージを行う。
 
+
 #### Bがローカルのmainブランチを最新化し、作業ブランチを作成。stylesheet.cssを追加しプルリクエストを出す。
 ```
 git pull origin main
@@ -107,6 +112,8 @@ git add stylesheet.css
 git commit -m "add stylesheet.css commit"
 git push -u origin develop
 ```
+
+
 #### AがBのプルリクエストをレビューし、mainブランチにマージする。
 Bが新しいファイルを作成してもは寧されていることがわかる。
 
