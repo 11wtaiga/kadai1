@@ -30,7 +30,8 @@ AがGitHub上にリモートリポジトリを作成する。今回はGitで作�
 
 
 ページ上部にある「Settings」から、左メニューの「Collaborators」を開く。
-<img width="1920" height="1032" alt="スクリーンショット 2026-08-20 165439" src="https://github.com/user-attachments/assets/9421e8c4-c9d3-46eb-9724-1781ec16a4a6" />
+<img width="1920" height="1032" alt="スクリーンショット 2026-08-24 100311" src="https://github.com/user-attachments/assets/db926b65-68b5-4691-bebe-5e0806049604" />
+
 
 パスワードを求められたら入力をし、「Add people」ボタンを押し、B のGitHubのユーザー名またはメールアドレスを入力して招待する。
 
