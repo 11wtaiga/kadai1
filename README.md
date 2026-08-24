@@ -62,9 +62,9 @@ git push -u origin main
 ```
 git clone <リポジトリのURL>
 cd <リポジトリ名>
-git branch develop
+git branch develop # 適当なブランチ名
 git switch develop
-vi index.html
+vi index.html # ファイルの編集
 git add index.html
 git commit -m "add index.html"
 git push origin develop
@@ -84,7 +84,19 @@ GitHub上で「Compare & pull request」を押し、追加や修正の内容を�
 
 「Compare changes」の「base」はmainにし、「compare」はpushした際の作業用ブランチ（develop）を選択する。正しく差分が表示されたら「Create pull request」を押すことでマージが完了する。
 
+#### Aがローカルのmainブランチを最新化し、作業ブランチを作成。index.htmlを編集・マージする。
 
+```
+git pull origin main
+git branch develop2
+git switch develop2
+vi index.html
+git add index.html
+git commit -m "add index.html"
+git push origin develop2
+```
+
+プッシュ後に、先ほどと同じ過程を通し、マージを行う。
 
 ## 参考
 https://docs.github.com/ja/pull-requests/reference/pull-requests
